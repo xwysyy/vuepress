@@ -1,0 +1,9 @@
+
+User-agent:*
+Disallow:
+
+<<<<<<< HEAD
+Sitemap: https://mister-hope.github.io/vuepress/sitemap.xml
+=======
+Sitemap: https://xwysyy.github.io/vuepress/sitemap.xml
+>>>>>>> c58be69 (初始化仓库)
